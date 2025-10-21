@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+I'm a young programmer that still to this day learns something ✨NEW✨
+Mostly I am working with python, im looking forward to know CPP, TSX, LUA, PYTHON and CPP for unity games
+
+Im Using GITHUB sometimes to enjoy cool projects from community and get inspired from them.
+
 <!--
 **blxb/blxb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
