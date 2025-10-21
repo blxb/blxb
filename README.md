@@ -21,4 +21,4 @@ Here are some ideas to get you started:
 -->
 
 ## My Skills:
-<img src=" width="10%">
+<img width="1920" height="1200" alt="screenshot for my profile descripiton in github" src="https://github.com/user-attachments/assets/3e55f44b-5958-4d6d-aef2-5aad1e3606b7" />
